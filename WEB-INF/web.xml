@@ -26,4 +26,4 @@
         <servlet-name>formresult</servlet-name>
         <url-pattern>/formresult</url-pattern>
     </servlet-mapping>
-    </web.xml>
+    </web-app>
