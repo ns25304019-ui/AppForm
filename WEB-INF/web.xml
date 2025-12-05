@@ -1,7 +1,7 @@
    <web-app>
     <servlet>
         <servlet-name>inputtest</servlet-name>
-        <jsp-file>FormInput.jsp</jsp-file>
+        <jsp-file>/FormInput.jsp</jsp-file>
     </servlet>
     <servlet-mapping>
         <servlet-name>inputtest</servlet-name>
