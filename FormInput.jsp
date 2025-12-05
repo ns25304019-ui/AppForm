@@ -10,8 +10,8 @@
   <body>
     <h1>ユーザー入力</h1>
     <form method="post" action="./formtest">
-      ユーザー名<input type="text" name="fullname" /><br />
-      パスワード<input type="text" name="tel" /><br />
+      氏名<input type="text" name="fullname" /><br />
+      携帯電話<input type="text" name="tel" /><br />
       <input type="submit" value="登録" />
     </form>
   </body>

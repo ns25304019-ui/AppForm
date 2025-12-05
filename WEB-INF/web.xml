@@ -20,7 +20,7 @@
     
     <servlet>
         <servlet-name>formresult</servlet-name>
-        <jsp-file>/formresult.jsp</jsp-file>
+        <jsp-file>/FormResult.jsp</jsp-file>
     </servlet>
     <servlet-mapping>
         <servlet-name>formresult</servlet-name>
